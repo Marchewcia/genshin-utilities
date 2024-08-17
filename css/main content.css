@@ -28,8 +28,6 @@ iframe {
 
 main {
     align-self: center;
-    background-color: rgb(255, 255, 255, 0.7);
-    color: rgb(67, 161, 146);
     display: flex;
     font-size: 20px;
     height: fit-content;
@@ -47,8 +45,3 @@ main {
     flex-direction: column;
 }
 
-table, tr, td {
-    border: solid black 1px;
-    border-collapse: collapse;
-    text-align: center;
-}
